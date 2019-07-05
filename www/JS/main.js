@@ -42,6 +42,6 @@ $('.testimonials_slider').slick({
     dots: true,
     arrows: true,
     appendArrows: $('.testimonials_nav'),
-    prevArrow: '<button classs="testimonials_arrow testimonials_prev"><i class="icon-angle-down"></i></button>',
-    nextArrow: '<button classs="testimonials_arrow testimonials_next"><i class="icon-angle-down"></i></button>'
+    prevArrow: '<button class="testimonials_arrow testimonials_prev"><i class="icon-angle-down"></i></button>',
+    nextArrow: '<button class="testimonials_arrow testimonials_next"><i class="icon-angle-down"></i></button>'
 });
